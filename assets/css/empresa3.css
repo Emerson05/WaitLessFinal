@@ -9,6 +9,7 @@ body{
     background-image: url(/assets/images/fundo.png);
 }
 
+
 .barra{
   display: inline-flex;
 
@@ -114,6 +115,11 @@ label {
   color: #1C6750;
   margin-top: 5%;
 }
+.selected {
+  background-color: #1C6750;
+  color: #E2E2E2;
+ 
+}
 
 #voltar-empresa3{
   height: 5vh; 
@@ -125,6 +131,15 @@ label {
 }
 
 #continuar{
+  height: 6vh;
+  background: #1C6750;
+  border-radius: 22px;
+  color: #FFFFFF;
+  margin-top: 5%;
+  width: 35%;
+}
+
+#continuar-3{
   height: 6vh;
   background: #1C6750;
   border-radius: 22px;
