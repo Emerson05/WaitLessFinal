@@ -1,0 +1,181 @@
+*{
+  margin: 0;
+  padding: 0;
+  font-family: 'Montserrat';
+
+}
+
+body{
+  background-image: url(/assets/images/fundo.png);
+  
+  
+  
+}
+
+#cop{
+  color: #E2E2E2;
+  font-size: 10px;
+}
+
+.a-footer{
+  color: #E2E2E2;
+  text-decoration:none;
+  font-size: 10px;
+}
+li{
+  font-size: 20px;
+  color: #E2E2E2;
+}
+ 
+
+.nav-item {
+  color: #E2E2E2;
+}
+#naoespere{
+  font-size: 30px;
+  margin-top: 10%;
+  color: #E2E2E2;
+}
+
+.fot-span{
+  font-size: 12px;
+}
+
+span{
+  color: #E24141;
+}
+
+.ver-mais{
+  color: #E24141;
+
+  border-color: #E24141;
+  border-radius: 10px;
+  width: 12%;
+}
+
+#btn{
+  color: #E2E2E2;
+  margin-left: 60%;
+  background-color: #E24141;
+  border-radius: 10px;
+  height: 3em;
+  width: 8em;
+}
+
+.card{
+  margin-top: 10%;
+  margin-right: 4%;
+  justify-content: space-between;
+  
+  
+}
+
+.card-body{
+  border-radius: 20px;
+}
+
+
+
+.card-text{
+  color: #1C6750;
+}
+
+svg{
+  color: #E24141;
+}
+#logomeio{
+  width: 100px;
+  height: 100px;
+  margin-top: 5%;
+  
+}
+
+#pnossos{
+  color: #E7B089;
+  font-size: 25px;
+}
+
+
+.banner{
+  background-color: #E2E2E2;
+  width: 100%;
+  height: 100%;
+  border-radius: 10px;
+}
+
+#sobre-nos{
+  margin-top: 10%;
+  justify-content: center;
+  text-align: center;
+  font-size: 5px;
+
+}
+
+.p-footer p{
+ text-align: center;
+ justify-items: center;
+ align-items: center;
+ text-align: justify;
+ color: #E2E2E2;
+ font-size: 16px;
+ 
+ 
+}
+
+footer{
+  color: #E2E2E2;
+}
+@media (max-width: 1200px){
+    .ver-mais{width: 20%;
+    }
+
+}
+
+
+@media (max-width: 767px)
+{
+  .card{
+    margin: 1%;
+    margin-top: 5%;
+    
+    
+  }
+
+  .ver-mais{
+    width: 50%;
+  }
+  
+}
+
+@media (max-width: 575px)
+{
+  .card{
+    margin: 80px;
+   
+    
+    
+  }
+
+  #pnossos{
+    color: #E2E2E2;
+  }
+
+  .ver-mais{
+    width: 50%;
+    
+  }
+
+  #btn-a{
+    margin-top: 13%;
+  }
+  #sobre-nos{
+    margin-top: 15%;
+  }
+
+  .p-footer{
+    font-size: 25px;
+  }
+  
+}
+
+

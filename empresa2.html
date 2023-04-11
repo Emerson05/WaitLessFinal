@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="assets/css/empresa2.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@800;900&display=swap" rel="stylesheet">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-aFq/bzH65dt+w6FI2ooMVUpc+21e0SRygnTpmBvdBgSdnuTN7QbdgL+OapgHtvPp" crossorigin="anonymous">
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha2/dist/js/bootstrap.bundle.min.js" integrity="sha384-qKXV1j0HvMUeCBQ+QVp7JcfGl760yU08IQ+GpUo5hlbpg51QRiuqHAJz8+BrxE/N" crossorigin="anonymous"></script>
+    
+    <title>Cadastro Empresa</title>
+</head>
+<body>
+    <div class="container">
+        <div class="row">
+            <div class="col-12 col-md-8"> 
+                <p id="wait">Wait<span>less</span></p>
+                <p id="personalize-empresa">Personalize sua empresa</p>
+                <p id="contenos">Conte-nos mais sobre seu negócio.</p>
+                <div class="barra">
+                    <h1 id="one"></h1>
+                    <h1 id="two"></h1>
+                    <h1 id="three"></h1>
+                </div>
+
+                <form action="empresa3.html">
+                    
+                    <label  id="nomelabel" for="">Nome Da Empresa</label>
+                    <input type="text" id="nome-empresa" name="nome" required="required"><br>
+                    <label  id="telefonelabel" for="">Telefone</label>
+                    <input type="tel" id="telefone" name="telefone" required="required">
+                    <label  id="cnpjlabel" for="">CNPJ</label>
+                    <input type="text" onkeypress="return onlynumber();" id="cnpj" name="cnpj" required="required">
+                    <label  id="capacidadelabel" for="">Capacidade Total</label>
+                    <input type="number" id="capacidade" name="capacidade" required="required">
+                    <label  id="horariolabel" for="">Horario Funcionamento</label>
+                    <input type="text" id="horario" name="horario" required="required">
+                    <label id="diaslabel" for="">Dias De Funcionamento</label>
+                    <input type="text" id="dias" name="dias" required="required">
+                    <button type="button" id="voltar-empresa2">Voltar</button>
+                    <button type="submit"  id="continuar-empresa2">Continuar</button>
+                    <div class="result"></div>
+
+                </form>
+
+
+            </div>
+
+        </div>        
+
+    </div>
+    <script src="assets/js/camponumerico.js"></script>
+    <script src="assets/js/empresa2.js"></script>
+</body>
+</html>
