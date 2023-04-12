@@ -1,13 +1,13 @@
-Projeto feito para a disciplina de coding Mobile, foi proposta para a primeira unidade a criação de um PWA que foi feito nesse repositorio.
-Tecnologias Utilizadas: Html,Css,JavaScript,BootStrap usamos o netfly para hospedar o site: https://waitless1.netlify.app/
-O aplicativo tem a proposta de diminuir a espera dos usuarios nas filas dos restaurantes, como vai ser demostrado abaixo.
+Projeto feito para a disciplina de coding Mobile, foi proposta para a primeira unidade a criação de um PWA que foi feito nesse repositorio. <br>
+Tecnologias Utilizadas: Html,Css,JavaScript,BootStrap usamos o netfly para hospedar o site: https://waitless1.netlify.app/ <br>
+O aplicativo tem a proposta de diminuir a espera dos usuarios nas filas dos restaurantes, como vai ser demostrado abaixo. <br>
 
 Integrantes: Emerson Do Nascimento,Francyelle Azevedo, Gabriella Jayanne, Kaio Vinícius, Nádia Winy, Rafael Ferreira, Ranyelle dos Santos. 
 
 1)Clique me Reservar <br>
 ![image](https://user-images.githubusercontent.com/61097794/231459364-33ea1d50-3dc1-434c-8838-7c77e55c7acf.png)
 
-2)É Necessario selecionar a opção pizzaria atlantico para o exemplo 
+2)É Necessario selecionar a opção pizzaria atlantico para o exemplo <br>
 ![image](https://user-images.githubusercontent.com/61097794/231461251-5a652fd5-af1e-4420-9e1b-44c30663f1f0.png)
 
 3)Clique em reserva novamente
