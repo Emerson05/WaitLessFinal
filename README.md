@@ -16,12 +16,12 @@ Integrantes: Emerson Do Nascimento,Francyelle Azevedo, Gabriella Jayanne, Kaio V
 4)Você ira ser redirecionado para a Pagina De Login Onde devera fazer um cadastro para a reserva, clique em cadastre-se. <br>
 ![image](https://user-images.githubusercontent.com/61097794/231462438-b963e52e-5600-43f8-9078-c04f4945da8e.png)
 
-5)Preencha os campos
+5)Preencha os campos<br>
 ![image](https://user-images.githubusercontent.com/61097794/231462871-209af12a-d811-4e42-9b10-dc3fa495e9f9.png)<br>
 
 6)Logo apos voce será ser redirecionado para a pagina de reserva, preencha os dados da reserva e escolha um horario valido, pronto voce esta reservado :).<br>
 
-![image](https://user-images.githubusercontent.com/61097794/231463487-921a44d8-1e3f-44a4-87b3-b4b1a7fedfe4.png)
+![image](https://user-images.githubusercontent.com/61097794/231463487-921a44d8-1e3f-44a4-87b3-b4b1a7fedfe4.png)<br>
 
 
 
