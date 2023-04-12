@@ -10,16 +10,16 @@ Integrantes: Emerson Do Nascimento,Francyelle Azevedo, Gabriella Jayanne, Kaio V
 2)É Necessario selecionar a opção pizzaria atlantico para o exemplo <br>
 ![image](https://user-images.githubusercontent.com/61097794/231461251-5a652fd5-af1e-4420-9e1b-44c30663f1f0.png)
 
-3)Clique em reserva novamente
+3)Clique em reserva novamente <br>
 ![image](https://user-images.githubusercontent.com/61097794/231461644-6ead7504-6e52-416c-9209-c957f9140b4b.png)
 
-4)Você ira ser redirecionado para a Pagina De Login Onde devera fazer um cadastro para a reserva, clique em cadastre-se.
+4)Você ira ser redirecionado para a Pagina De Login Onde devera fazer um cadastro para a reserva, clique em cadastre-se. <br>
 ![image](https://user-images.githubusercontent.com/61097794/231462438-b963e52e-5600-43f8-9078-c04f4945da8e.png)
 
 5)Preencha os campos
-![image](https://user-images.githubusercontent.com/61097794/231462871-209af12a-d811-4e42-9b10-dc3fa495e9f9.png)
+![image](https://user-images.githubusercontent.com/61097794/231462871-209af12a-d811-4e42-9b10-dc3fa495e9f9.png)<br>
 
-6)Logo apos voce será ser redirecionado para a pagina de reserva, preencha os dados da reserva e escolha um horario valido, pronto voce esta reservado :).
+6)Logo apos voce será ser redirecionado para a pagina de reserva, preencha os dados da reserva e escolha um horario valido, pronto voce esta reservado :).<br>
 
 ![image](https://user-images.githubusercontent.com/61097794/231463487-921a44d8-1e3f-44a4-87b3-b4b1a7fedfe4.png)
 
