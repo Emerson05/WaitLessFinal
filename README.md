@@ -4,7 +4,7 @@ O aplicativo tem a proposta de diminuir a espera dos usuarios nas filas dos rest
 
 Integrantes: Emerson Do Nascimento,Francyelle Azevedo, Gabriella Jayanne, Kaio Vinícius, Nádia Winy, Rafael Ferreira, Ranyelle dos Santos. 
 
-1)Clique me Reservar
+1)Clique me Reservar <br>
 ![image](https://user-images.githubusercontent.com/61097794/231459364-33ea1d50-3dc1-434c-8838-7c77e55c7acf.png)
 
 2)É Necessario selecionar a opção pizzaria atlantico para o exemplo 
