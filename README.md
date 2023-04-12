@@ -2,6 +2,8 @@ Projeto feito para a disciplina de coding Mobile, foi proposta para a primeira u
 Tecnologias Utilizadas: Html,Css,JavaScript,BootStrap usamos o netfly para hospedar o site: https://waitless1.netlify.app/
 O aplicativo tem a proposta de diminuir a espera dos usuarios nas filas dos restaurantes, como vai ser demostrado abaixo.
 
+Integrantes: Emerson Do Nascimento,Francyelle Azevedo, Gabriella Jayanne, Kaio Vinícius, Nádia Winy, Rafael Ferreira, Ranyelle dos Santos. 
+
 1)Clique me Reservar
 ![image](https://user-images.githubusercontent.com/61097794/231459364-33ea1d50-3dc1-434c-8838-7c77e55c7acf.png)
 
